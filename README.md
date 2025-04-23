@@ -2,8 +2,6 @@
 
 This repository contains my seminar paper, written in Hebrew, for the Bioinformatics course at the Open University of Israel. The paper explores how **Differential Privacy** and other privacy-preserving techniques can be applied to **Genomic Data** — a field at the intersection of bioinformatics, ethics, and data security.
 
----
-
 ## 📄 About the Paper
 
 As genomic sequencing becomes faster and cheaper, **scientists around the world are eager to share and combine genomic data** to accelerate the pace of discovery in medicine, population genetics, personalized treatment, and disease prevention. Access to large, diverse datasets is essential for breakthroughs in rare disease research, cancer genomics, and epidemiology.
@@ -27,13 +25,9 @@ This seminar paper provides a comprehensive overview of:
 - Challenges in applying differential privacy to real-world genomic datasets
 - Proposed solutions and frameworks (e.g., GenShare, selective SNP hiding)
 
----
-
 ## 🌍 Language
 
 The seminar paper is written in **Hebrew**.
-
----
 
 ## 📘 English Summary
 
